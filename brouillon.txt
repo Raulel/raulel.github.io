@@ -1,0 +1,7 @@
+Le porte-folio doit se présenter comme suit : 
+
+#Logo       #searchButon        {{#Acceuil | #Compétences | #Réalisation | ((#Recruter))}}
+
+#Body
+
+#
