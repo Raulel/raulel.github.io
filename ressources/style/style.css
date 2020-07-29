@@ -1,0 +1,12 @@
+:root{
+    --main-border: 2px solid white;
+}
+header, nav, a {
+    border: var(--main-border);
+    padding: 10px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: -10px;
+}
