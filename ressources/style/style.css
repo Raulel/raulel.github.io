@@ -1,6 +1,9 @@
 :root{
     --main-border: 2px solid white;
 }
+body{
+    background: black;
+}
 header, nav, a {
     border: var(--main-border);
     padding: 10px;
