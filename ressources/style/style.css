@@ -2,7 +2,7 @@
     --main-border: 2px solid white;
 }
 body{
-    background: black;
+    background: #3A4A5A;
 }
 header, nav, a {
     border: var(--main-border);
